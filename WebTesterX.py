@@ -27,7 +27,7 @@ print("\n","-"*50,"\n")
 if "__main__" == __name__:
     # Creer mon agent, qui appelle la classe Tester()
     agent = Tester()
-    parser = argparse.ArgumentParser(description='WebTesterX -- Server tester developped by SALLON Maël and MARTIN Amaury')
+    parser = argparse.ArgumentParser(description='WebTesterX -- Server tester developped by Hoag and Eagle_')
     
     # Group for --url and --sites-list options
     parser.add_argument_group('TESTS options')
