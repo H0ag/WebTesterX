@@ -1,0 +1,4 @@
+https://prod.double-t.fr/
+double-t.fr
+google.com
+http://chat.openai.com/
